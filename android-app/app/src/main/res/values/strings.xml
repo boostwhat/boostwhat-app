@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Boostwhat Bot Sync</string>
+    <string name="status_waiting">Menunggu Login Instagram…</string>
+    <string name="status_syncing">Menyinkronkan session ke server…</string>
+    <string name="status_connected">Akun Berhasil Tersambung!</string>
+    <string name="btn_add_bot">Tambah Akun Lain</string>
+    <string name="btn_open_panel">Buka Panel /3in1</string>
+    <string name="btn_refresh">Muat Ulang</string>
+</resources>
